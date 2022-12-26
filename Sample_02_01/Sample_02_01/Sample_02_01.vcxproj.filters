@@ -302,4 +302,7 @@
       <Filter>MiniEngine\font</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Assets\shader\sample.fx" />
+  </ItemGroup>
 </Project>
